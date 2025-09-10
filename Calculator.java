@@ -24,6 +24,7 @@ public class Calculator
     public int addition(int x, int y) 
     { 
        return x + y; 
+       //addition function
     } 
     public int subtraction(int x, int y) 
     { 
