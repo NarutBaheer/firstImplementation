@@ -23,10 +23,9 @@ public class Calculator
 
     public int addition(int x, int y) 
     { 
-        int sum = 0;
-    	sum += x;
-    	sum += y;
-    	return sum;	 
+       return x + y; 
+       //Implement addition() function
+       //addition function
     } 
     public int subtraction(int x, int y) 
     { 
