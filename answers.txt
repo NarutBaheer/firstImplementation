@@ -1,0 +1,39 @@
+Q1. 
+
+git checkout -b <new-branch-name> 
+
+ 
+
+Q2. 
+
+git pull 
+
+ 
+
+Q3. 
+
+Staging area 
+
+ 
+
+Q4. 
+
+Intent 1: 
+
+Get the latest changes from main and create a new branch for fixing the missing button. 
+
+ 
+
+Intent 2: 
+
+Stage the button.js file (either modified or created) then commit the changes locally with the fix for the missing button and page 
+
+ 
+
+Intent 3: 
+
+Switch to main branch. Update local with the latest updates from main. Merge the bugfix branch with the missing button to the main branch making sure the merge is not a fast-forward merge. 
+
+Intent 4: 
+
+Push the updated local main branch to the remote repository 
